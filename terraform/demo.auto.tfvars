@@ -1,2 +1,2 @@
-proj_code = "ghaction01"
+proj_code = "ghtfcloud01"
 location  = "West Europe"
